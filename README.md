@@ -16,6 +16,6 @@ INSTALL
   $ python setup.py install
   ```
 
-3. Use Admin Pages to setup a new Spatial Dataset Service for a GeoServer called 'default'
+3. Use Admin Pages to setup a new Spatial Dataset Service for a GeoServer called `'default'`.
 
 
